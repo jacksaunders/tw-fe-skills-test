@@ -2,11 +2,11 @@
 
 ## Installing the test
 
-Install Node.js, Sass and Git on your machine. If you're a Windows user you'll also need to install Ruby.
-Install Gulp using `npm install -g gulp.` You may need to use sudo in front of the Gulp install command to give it permissions.
-Fork/Clone/Download this repository into your machine, you should hopefully see all the files and folders.
-Open Terminal and install the dependencies using  `npm install`. You don't need sudo to do this.
-Run `gulp` from the directory so start the build and browser-sync server.
+- Install Node.js, Sass and Git on your machine. If you're a Windows user you'll also need to install Ruby.
+- Install Gulp using `npm install -g gulp.` You may need to use sudo in front of the Gulp install command to give it permissions.
+- Fork/Clone/Download this repository into your machine, you should hopefully see all the files and folders.
+- Open Terminal and install the dependencies using  `npm install`. You don't need sudo to do this.
+- Run `gulp` from the directory so start the build and browser-sync server.
 
 
 ## What is the test
