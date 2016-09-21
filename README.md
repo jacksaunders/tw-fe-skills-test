@@ -1,36 +1,26 @@
-# FastShell
-[![Build Status](https://travis-ci.org/HosseinKarami/fastshell.png?branch=master)](https://travis-ci.org/HosseinKarami/fastshell)
+# TrendWatching Front End Coding Challenge
 
-inspired by [FireShell](http://getfireshell.com)
-Fiercely quick front-end boilerplate and workflows.
+## Installing the test
 
-The opinionated FastShell framework. Built for the modern developer. For teams and the individual, encouraging a better workflow. JavaScript task running, build processes, autominification and file concatenation, wrapped with an enhanced HTML5 boilerplated framework.
-
-* Source: [github.com/HosseinKarami/fastshell](http://github.com/HosseinKarami/fastshell)
-* Documentation: [DOCS.md](https://github.com/HosseinKarami/fastshell/blob/master/DOCS.md)
-* HomePage: [Fastshell](https://HosseinKarami.github.io/fastshell)
+Install Node.js, Sass and Git on your machine. If you're a Windows user you'll also need to install Ruby.
+Install Gulp using `npm install -g gulp.` You may need to use sudo in front of the Gulp install command to give it permissions.
+Fork/Clone/Download this repository into your machine, you should hopefully see all the files and folders.
+Open Terminal and install the dependencies using  `npm install`. You don't need sudo to do this.
+Run `gulp` from the directory so start the build and browser-sync server.
 
 
-## License
+## What is the test
 
-#### The MIT License (MIT)
+![](https://d17oy1vhnax1f7.cloudfront.net/items/0v0f183X1m2I2q130A3v/Image%202016-09-21%20at%201.38.47%20pm.png)
 
-Copyright (c) FastShell
+The test is to build this dropdown as close as you can using HTML, SASS and JS
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of
-this software and associated documentation files (the "Software"), to deal in
-the Software without restriction, including without limitation the rights to
-use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies
-of the Software, and to permit persons to whom the Software is furnished to do
-so, subject to the following conditions:
+- The folder structure is there for you, all sass and js must go in the `src` folder - it will then be compiled into the `app` folder
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+- Any images fonts etc can go directly in the app folder
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+- Focus on getting the HTML and CSS completed with the dropdown visible underneath the add to project button.
+
+- if you have time after that you can add a click to dropdown, jQuery is included in the source code
+
+*Feel free to just use basic web standard fonts you will not lose points for not getting the right font in there*
