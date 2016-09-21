@@ -15,7 +15,7 @@
   });
 
   $(document).ready(function() {
-    alert("works")
+  	
   });
 
 })(jQuery, window, document);
